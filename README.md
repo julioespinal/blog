@@ -1,4 +1,4 @@
 BLOG
 ============
 
-Currently located at http://julioespinal.com/blog
+Currently located at http://blog.julioespinal.com
